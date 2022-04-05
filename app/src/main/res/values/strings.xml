@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReconnaissanceVitraux</string>
+    <string name="app_presentation">Bienvenue! Cette application développée par le pôle projet P14 de CentraleSupéléc réalise la reconnaissance des vitraux selon la base des données (inserer le nom de la base de données utilisée).</string>
+    <string name="btn_app_settings">Configuration de l\'appli</string>
+    <string name="btn_img_selection">Sélectionner une image</string>
+    <string name="editText_img_name">Saisissez le nom de l\'image</string>
+    <string name="btn_img_upload">Télécharger l\'image</string>
+    <string name="btn_app_quit">Quitter l\'appli</string>
+    <string name="wikiText">En savoir plus</string>
+    <string name="no_image_selected_error">Il faut choisir une image d\'abord</string>
+    <string name="title_dialog_upload">Téléchargeant l\'image</string>
+    <string name="wait_dialog_upload">Attendez s\'il vous plaît</string>
+</resources>

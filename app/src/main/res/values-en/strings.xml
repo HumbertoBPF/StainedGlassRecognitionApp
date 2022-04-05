@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StainedGlassRecognizer</string>
+    <string name="app_presentation">Welcome! This app developed by CentraleSupélec\'s pole P14 performs stained-glass recognition according to the database (insert database name).</string>
+    <string name="btn_app_settings">App settings</string>
+    <string name="btn_img_selection">Image selecion</string>
+    <string name="editText_img_name">Type image\'s name</string>
+    <string name="btn_img_upload">Upload image</string>
+    <string name="btn_app_quit">Exit</string>
+    <string name="wikiText">Know more</string>
+    <string name="no_image_selected_error">You have to choose a picture first</string>
+    <string name="title_dialog_upload">Uploading image</string>
+    <string name="wait_dialog_upload">Please, wait</string>
+</resources>
